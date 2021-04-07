@@ -15,7 +15,7 @@ services:
     photo: https://res.cloudinary.com/seuk/image/upload/w_800,h_533,q_auto,f_auto/v1599657089/Battery_2.jpg
     photo_alt: Energy Market Trading
     link: /energy-market-services
-    linktext: 
+    linktext: Find out more about our Energy Market Services
   - heading: Energy & Utilities for Industry
     text: "At Wilton International in Teesside, we supply private wire electricity,
       world-scale utilities, and specialist services to energy-intensive
