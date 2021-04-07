@@ -23,7 +23,7 @@
         <div class="section__copy">
           <p>{{ .text }}</p>
         </div> 
-        {{ }}   
+        {{ if}}   
         <div class="section__actions btn-group">
           <a class="btn" href="{{ .link }}" {{ if in .link "http" }}target="_blank"{{ end }}>{{ .linktext }}</a>
         </div>   
