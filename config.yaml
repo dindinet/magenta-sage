@@ -23,7 +23,7 @@ params:
         label: Our Services
         url: /services/
         style: link
-               submenu:
+        submenu:
           - label: Overview
             url: /services/        
           - label: Energy Market Services
