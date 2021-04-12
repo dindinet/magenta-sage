@@ -39,5 +39,5 @@ seukoffercards:
 blog_section:
   title: What's New
   show_recent: true
-  recent_count: 6
+  recent_count: 3
 ---
