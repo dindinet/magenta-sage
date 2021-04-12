@@ -5,7 +5,7 @@ description: We are a leading integrated energy business, providing flexible
   energy services and sustainable solutions supporting the UK’s transition to
   Net Zero
 hero:
-  heroimg: https://res.cloudinary.com/seuk/image/upload/v1605261623/sembcorp-energy-uk.jpg
+  heroimg: https://res.cloudinary.com/seuk/image/upload/w_1665,q_auto,f_auto/v1602590311/sustainability_3.jpg #https://res.cloudinary.com/seuk/image/upload/v1605261623/sembcorp-energy-uk.jpg
   heading: null
   subheading: null
   valprop: We provide flexible energy services and sustainable solutions
