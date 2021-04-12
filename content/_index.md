@@ -38,6 +38,6 @@ seukoffercards:
       create outstanding career opportunities for creative, committed people.
 blog_section:
   title: What's New
-  show_recent: false
+  show_recent: true
   recent_count: 3
 ---
