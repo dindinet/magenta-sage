@@ -55,7 +55,7 @@
       <div class="container container--lg" >
          <div class="flex flex--col-3">
             
-            {{ range first 3 (where .Site.Pages "Section" "blog") }}
+            {{ range first 6 (where .Site.Pages "Section" "blog") }}
             <article class="cell">
                <div class="card postcard">
                   <a class="card__media card__media--top" href="{{.Permalink}}">
